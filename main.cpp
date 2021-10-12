@@ -30,6 +30,7 @@ void falkner(float tr, float si, float sb, float ab){
    cin>>si;
    cout<<endl;
 
+    
    cout<<" Insira a dobra Sub-escapular: ";
    cin>>sb;
    cout<<endl;
